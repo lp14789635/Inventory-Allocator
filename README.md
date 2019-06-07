@@ -10,7 +10,16 @@ If it does not work, run
 ```
 chmod +x ./run.sh
 ``` 
-first and then "./run.sh"
-### In Windows: 1. In terminal, go to the src directory
-###             2. run "javac testClass.java"
-###             3. run "java testClass" 
+first and then 
+```
+./run.sh
+```
+### In Windows: 
+In terminal, go to the src directory and compile with 
+```
+javac testClass.java
+```
+Then, run with 
+```
+java testClass
+```
